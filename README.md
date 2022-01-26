@@ -3,4 +3,3 @@
 * Propojení s databázovými systémy pomocí SQLAlchemy
 * Zpracování PDF souborů
 * Tvorba grafů
-* Export do Excelu
